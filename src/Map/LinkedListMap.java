@@ -123,7 +123,7 @@ public class LinkedListMap<K, V> implements Map<K, V>{
                 linkedListMap.add(word,linkedListMap.get(word)+1);
             }
         }
-        System.out.println("不同的words"+linkedListMap.getSize());
+        System.out.println("不同的words:"+linkedListMap.getSize());
         System.out.println("pride出现次数:"+linkedListMap.get("pride"));
     }
 }
