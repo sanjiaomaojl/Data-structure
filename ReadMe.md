@@ -1,5 +1,8 @@
 # Data-structure
 ## 学习liuyubobobo老师的玩转数据结构的笔记和相关代码。是不是非常的酷，是  :）<br>
+
+[原文地址](https://github.com/liuyubobobo/Play-with-Data-Structures)
+
 重装系统了，以前的代码没了，慢慢补上。
 
 | 标题 | link |
